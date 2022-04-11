@@ -40,4 +40,4 @@ jobs:
 workflows:
  udagram:
    jobs:
-       build
+      - build
