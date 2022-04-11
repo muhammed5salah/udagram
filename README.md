@@ -9,5 +9,5 @@ This application is provided to you as an alternative starter project if you do 
 1. Open a terminal and navigate to the root of the repo
 1. follow the instructions in the installation step
 
- ## Front-End Application
+ ## Front-End Application Link
  [http://udagram-salahbucket.s3-website-us-east-1.amazonaws.com](http://udagram-salahbucket.s3-website-us-east-1.amazonaws.com)
