@@ -8,6 +8,7 @@ This application is provided to you as an alternative starter project if you do 
 1. Move the content of the udagram folder at the root of the repository as this will become the main content of the project.
 1. Open a terminal and navigate to the root of the repo
 1. follow the instructions in the installation step
+<<<<<<< HEAD
  
 
 ### Dependencies
@@ -62,3 +63,8 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+=======
+
+ ## Front-End Application Link
+ [http://udagram-salahbucket.s3-website-us-east-1.amazonaws.com](http://udagram-salahbucket.s3-website-us-east-1.amazonaws.com)
+>>>>>>> 409946bb4dd22d87a2c7cff29933d1e6cfebc152
